@@ -11,7 +11,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 自动
 [📃  前言](#--前言) bbbbbb
 
-[🍭  效果](#--效果)
+[🍭  效果](#--效果) ccccc
 
 [🎁  事前准备](#--事前准备)
 
