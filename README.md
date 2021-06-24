@@ -9,9 +9,9 @@
 Documentation: [English version](https://github.com/luolongfei/freenom/blob/master/README_EN.md) | 中文版
 </div>
 自动
-[📃  前言](#--前言) AAAAAAA
+[📃  前言](#--前言) bbbbbb
 
-[🍭  效果](#--效果)bbbb
+[🍭  效果](#--效果)
 
 [🎁  事前准备](#--事前准备)
 
